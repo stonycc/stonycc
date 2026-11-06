@@ -1,3 +1,3 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=stonycc&theme=dark&mode=weekly)](https://git.io/streak-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stonycc&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stonycc)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=stonycc&langs_count=10&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=stonycc&langs_count=10&theme=light_github)
