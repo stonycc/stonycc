@@ -1,3 +1,1 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stonycc&theme=dark)
-
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=stonycc&langs_count=10&theme=light_github)](https://github-stats-extended.vercel.app/api/top-langs?username=stonycc&langs_count=10&theme=light_github&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&count_private=true)
